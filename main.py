@@ -24,4 +24,4 @@ def start():
     
     notificationDisplay.displayNotification("Free!","Now you are free!")
 
-start()
+start() #Function to start the counter
